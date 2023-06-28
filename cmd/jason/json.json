@@ -1,0 +1,7 @@
+{
+    "some": "json data",
+    "here": {
+        "haha": "yes"
+    },
+    "what": ["can", "we", "do"]
+}

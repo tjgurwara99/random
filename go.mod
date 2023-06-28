@@ -1,8 +1,11 @@
 module github.com/tjgurwara99/random
 
-go 1.17
+go 1.20
 
-require go.mongodb.org/mongo-driver v1.7.3
+require (
+	go.mongodb.org/mongo-driver v1.7.3
+	gopkg.in/yaml.v3 v3.0.0-20200313102051-9f266ea9e77c
+)
 
 require (
 	github.com/go-stack/stack v1.8.0 // indirect
